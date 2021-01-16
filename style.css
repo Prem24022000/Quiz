@@ -73,3 +73,9 @@ h1{
 .correct{
     margin-left: 10px;
 }
+
+@media(max-width: 376px){
+    .container{
+        width: 300px;
+    }
+}
